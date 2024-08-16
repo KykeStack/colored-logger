@@ -5,7 +5,7 @@ A customized Python logger with formatted output and color-coded log levels
 ## Installation
 
 Install directly from GitHub:
-https://github.com/KykeStack/colored-logger.git
+git+https://github.com/KykeStack/colored-logger.git
 
 ## Usage
 
